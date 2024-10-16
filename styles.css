@@ -1219,6 +1219,14 @@ footer {
     font-size: 2rem;
   }
   .infoLeft h2 {
+    font-size: 1.6rem;
+    text-align: center;
+  }
+  .infoLeft h3{
+    font-size: 1.3rem;
+  }
+  .infoLeft{
+    font-size: .9rem;
     text-align: center;
   }
 
