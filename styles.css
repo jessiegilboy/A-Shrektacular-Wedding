@@ -102,7 +102,7 @@ a.navbar-brand:hover {
 
 .countdownLeft {
   align-items: end;
-  background-image: url("images/kissDip.jpg");
+  background-image: url("images/kissDip-min.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -915,7 +915,8 @@ p.stay {
 
 /* Wedding Party */
 .weddingParty {
-  margin: 20px;
+  background-color: #f0e6dc8c;
+  padding: 20px;
 }
 .weddingParty h2 {
   color:#365033;
@@ -1166,7 +1167,7 @@ footer {
   }
 }
 
-@media (max-width: 580px) {
+@media (max-width: 664px) {
   /* .navbar{
     flex-wrap: nowrap;
   } */
